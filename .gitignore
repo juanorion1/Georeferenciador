@@ -1,0 +1,7 @@
+*.ipynb
+*.pkl
+*.npy
+*.png
+*.txt
+shape/
+.ipynb_checkpoints
