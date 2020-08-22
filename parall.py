@@ -12,7 +12,7 @@ from shapely.geometry import Point, LineString, MultiLineString
 import matplotlib.pyplot as plt
 
 import numpy as np
-#posiblemente se borren las que están de aquí en adelante
+
 import geopy.distance
 from shapely.geometry import Polygon, MultiPolygon
 
